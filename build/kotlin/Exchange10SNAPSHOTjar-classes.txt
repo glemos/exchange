@@ -1,0 +1,1 @@
+C:\Desenv\POC\Exchange\build\classes\kotlin\main\Main.class
